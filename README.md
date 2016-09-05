@@ -73,4 +73,3 @@ new_game()
 frame.start()
 
 
-# Always remember to review the grading rubric
